@@ -3,7 +3,7 @@ layout: post
 title: JSON feed and jekyll
 ---
 
-[JSON feed](https://jsonfeed.org/2017/05/17/announcing_json_feed) is an alternative feed format, made by Manson Reece and Brent Simmons, with the aim of reducing the complexity inherent to XML and Atom. 
+[JSON feed](https://jsonfeed.org/2017/05/17/announcing_json_feed) is an alternative feed format, made by Manton Reece and Brent Simmons, with the aim of reducing the complexity inherent to XML and Atom. 
 
 The JSON feed project came to my attention after [reading John Gruber of Daring Fireball](https://daringfireball.net/linked/2017/05/17/json-feed) express his delight with the format, and how enjoyable it was to work with. For those who don't know, John is the creator of Markdown, and as he says in his own post >" I’ve got a good feeling about this project — the same sort of feeling I had about Markdown back in the day."
 
