@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Currently studying Computer Systems at the University of Limerick. 
+Currently interning at Ericsson as part of my Computer Systems Degree at the University of Limerick.
 
 ### More Information
 
