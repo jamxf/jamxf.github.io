@@ -1,1 +1,0 @@
-My website, built on GitHub Pages.
