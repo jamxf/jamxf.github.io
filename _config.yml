@@ -87,3 +87,5 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-minimal
+
+logo: /images/jamxf_head.png
