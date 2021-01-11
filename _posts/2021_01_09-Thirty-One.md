@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 31
+title: Thirty One
 ---
 
 v3.1
