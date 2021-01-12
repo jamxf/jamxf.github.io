@@ -1,11 +1,15 @@
 ---
 layout: post
 title: Thirty One
+excerpt_separator: <!--more-->
+
 ---
 
-v3.1 (DRAFT)
+v3.1 
 
 The night of my Thirtieth birthday, this time last year, I was gifted a beautiful poster that my girlfriend and her friends had all drawn pictures and written notes on to celebrate the occasion. One of the illustrations was the outline of an iPhone, with a dialog on screen showing the text "installing James software version 3.0". This got me thinking about my own version history, what the 1.0, 2.0 and so on have meant for me, and will mean in the future.
+
+<!--more-->
 
 If we take v1.0 to mean everything up until the start of third level education, I think I had a fairly typical experience for white, straight and nerdy Irish kid born in the 90s. I was born in a country that was poor and still heavily under the influence of the Catholic Church. Both divorce and homosexuality were illegal, Maggie Thatcher was still in power in the UK, and the Troubles still hung over the Island. The Internet barely existed, Ireland wouldn't make a connection to the internet as we know it until 1991. We didn't have a TV. The following 18 years are a story of tremendous economic growth, the emergence of the new Irish middle class - people drinking coffee from disposable cups, satellite TV, 2 car garages and by the mid 2000's, maybe it was time for families to start thinking about buying a second house. My own family hit some of these notes, and missed more of them.
 
