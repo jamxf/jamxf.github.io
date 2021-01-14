@@ -21,10 +21,12 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  
+  @include mobile {
+    padding:24px;
+  }
 }
-@include mobile {
-  padding:24px;
-}
+
 
 .page__content {
   text-align: justify;
