@@ -22,6 +22,9 @@ body {
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
+@include mobile {
+  padding:24px;
+}
 
 .page__content {
   text-align: justify;
@@ -213,6 +216,7 @@ img {
 
   @include mobile {
     margin: 3px 0;
+    text-align: center;
   }
 }
 
