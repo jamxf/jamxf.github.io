@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thirty One, and thoughts on human software versions
+title: Thirty One, thoughts on human software versions
 excerpt_separator: <!--more-->
 
 ---
