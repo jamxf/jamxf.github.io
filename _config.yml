@@ -7,7 +7,7 @@
 name: James Foley
 
 # Short bio or description (displayed in the header)
-description: CS Grad @UL, Engineer @Ericsson
+description: Software Engineer, Retired Musician
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/3916603?s=460&u=84fc3ccddc5601e79c2bd915aa8fc93a5da95da2&v=4
@@ -22,12 +22,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: jamxf
-  instagram: jamxf
+  github: 
+  instagram: 
   linkedin:
   pinterest:
-  rss: atom
-  twitter: jamxf
+  rss: 
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -38,7 +38,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-90952923-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
